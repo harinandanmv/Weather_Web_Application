@@ -1,11 +1,9 @@
-/* Basic reset */
 * {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
 }
 
-/* Set a font and background */
 body {
     font-family: 'Arial', sans-serif;
     background-color: #f0f8ff;  /* Light blue background */
@@ -16,7 +14,6 @@ body {
     height: 100vh;
 }
 
-/* Center the content */
 .container {
     background-color: #fff;
     padding: 20px;
@@ -32,7 +29,6 @@ h1 {
     color: #4CAF50;
 }
 
-/* Style the input container */
 .input-container {
     margin-bottom: 20px;
 }
@@ -65,7 +61,6 @@ button:hover {
     background-color: #45a049;
 }
 
-/* Style the weather information */
 #weatherInfo {
     margin-top: 20px;
 }
@@ -81,7 +76,6 @@ button:hover {
     color: #555;
 }
 
-/* Error styling */
 #error {
     color: red;
     font-weight: bold;
