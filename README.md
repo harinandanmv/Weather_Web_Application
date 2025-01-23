@@ -34,8 +34,8 @@ The application uses the [OpenWeatherMap API](https://openweathermap.org/api) to
 ```
 weather-webapp/
 |-- weatherapp.html       # Main HTML file
-|-- weatherapp.css        # Stylesheet for the application
-|-- script.js        # JavaScript file for functionality
+|-- weatherstyles.css        # Stylesheet for the application
+|-- weatherapp.js        # JavaScript file for functionality
 |-- README.md        # Project documentation (this file)
 ```
 
